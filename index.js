@@ -140,7 +140,8 @@ let addDepartment = () => {
         VALUES
         ('${name}')`
         dbQueryNoTable(query);
-    })
+        userActionPrompt();
+    });
 }
 let updateEmployeeRole = () => {
     inquier.prompt([
