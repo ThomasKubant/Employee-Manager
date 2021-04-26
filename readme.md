@@ -1,16 +1,17 @@
-# Note Taker
+# Employee Manager
   ## Description
-  A simple express.js driven app that allows user to save notes
+  A simple CLI using mySQL to manage information regarding employees, departments, and job roles.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
   ## Installation
-  Clone repository and run "npm i" in the terminal, then run "npm start" and navigate to http://localhost:3001/
+  Clone the repository, open the file and run "npm i" to download the packages. Login to mySQL on run "source db/db.sql", "source db/schema.sql", and "source db/seeds.sql". Change your password in the connection.js file in the db folder and then run "node index.js"
   ## Usage
-  Easily take notes using a clean interface
-  
+  Node Index.js will launch the app.
+  ## Video Demo
+  https://drive.google.com/file/d/1VG3zTc2gqcgjvQwhKtDdg8ZtdV4Ypv02/view
   ## Credits
   No collaborators to credit.
   ## License
@@ -39,6 +40,6 @@
     
     For more information, please refer to [Unlicense.org](https://unlicense.org)
   ## Questions
-  Author: [Thomas Kubant](https://github.com/ThomasKubant)
-  Github: [undefined](https://github.com/ThomasKubant)
-  Email: [Thomaskubant@gmail.com](mailto:Thomaskubant@gmail.com)
+  Author: [Thomas Kubant](https://github.com/Thomaskubant)
+  Github: [undefined](https://github.com/Thomaskubant)
+  Email: [thomaskubant@gmail.com](mailto:thomaskubant@gmail.com)
