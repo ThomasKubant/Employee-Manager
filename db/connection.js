@@ -4,6 +4,7 @@ const db = mysql.createConnection(
     {
          host: 'localhost',
          user: 'root',
+        //  CHANGE PASSWORD HERE
          password: 'Password',
          database: 'main'
     },
