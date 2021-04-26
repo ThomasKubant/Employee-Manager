@@ -10,7 +10,8 @@
   Clone repository and run "npm i" in the terminal, then run "npm start" and navigate to http://localhost:3001/
   ## Usage
   Easily take notes using a clean interface
-  
+  ## Video Demo
+  [Video](#https://drive.google.com/file/d/1VG3zTc2gqcgjvQwhKtDdg8ZtdV4Ypv02/view)
   ## Credits
   No collaborators to credit.
   ## License
